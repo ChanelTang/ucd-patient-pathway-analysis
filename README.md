@@ -1,6 +1,6 @@
 # ucd-patient-pathway-analysis
 K-Means clustering for unscheduled care pathways 
-# UCD Patient Pathway Clustering (AI4BI CDT Project 1)
+# UCD Patient Pathway Clustering 
 
 **Live K-Means analysis of unscheduled care bottlenecks**  
 Simulating Public Health Scotland UCD dataset (NHS24→Ambulance→ED→Admission)
